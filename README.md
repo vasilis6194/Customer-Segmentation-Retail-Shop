@@ -1,6 +1,6 @@
 # 📊 Customer Segmentation for Retail Store
 
-[![Customer Segmentation Thumbnail](https://github.com/vasilis6194/Customer-Segmentation-Retail-Shop/blob/main/presentation/clustering%20project%20thumbnail.jpg)
+![Customer Segmentation Thumbnail](https://github.com/vasilis6194/Customer-Segmentation-Retail-Shop/blob/main/presentation/clustering%20project%20thumbnail.jpg)
 
 ### Click below to view the interactive Power BI report:
 
