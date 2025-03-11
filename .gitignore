@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Ignore large data files
+cleaned_data.csv
+clustered_data.csv
+online_retail_II.xlsx
