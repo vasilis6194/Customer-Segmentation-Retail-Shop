@@ -37,7 +37,7 @@ It provides a structured approach to measuring customer **engagement & value**, 
 
 ## 🔹 Applying K-Means Clustering
 - **Standardized RFM data** to ensure fair clustering.
-- Used **Elbow Method** to determine the optimal number of clusters.
+- Used **Elbow Method** and **Silhouette Visualizer** to determine the optimal number of clusters.
 - Applied **K-Means Clustering** to segment customers into **four groups**:
 
 | **Cluster** | **Behavior** | **Strategy** |
